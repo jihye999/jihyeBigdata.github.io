@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Gary FinanceData 
-email: moduedu@gmail.com
-author: GaryKim
+title: jihye Finance
+email: jihye41357@gmail.com
+author: jihyeyoon
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
